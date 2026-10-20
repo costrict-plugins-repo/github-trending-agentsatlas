@@ -1,0 +1,17 @@
+{
+  "name": "agents-atlas",
+  "owner": {
+    "name": "AvinashP"
+  },
+  "plugins": [
+    {
+      "name": "agents-atlas",
+      "description": "Minimal workflow for Claude Code & Codex - 8 commands, 16 dev skills, fresh-context subagent execution",
+      "author": {
+        "name": "AvinashP"
+      },
+      "version": "1.7.0",
+      "source": "./"
+    }
+  ]
+}
